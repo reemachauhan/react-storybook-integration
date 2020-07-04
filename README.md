@@ -1,6 +1,6 @@
 # react-storybook-integration
 
-This repository demonstrates the integration of storybook with the [Create React App](https://github.com/facebook/create-react-app) with Typescript.
+This repository demonstrates the integration of [Storybook](https://storybook.js.org/) with the [Create React App](https://github.com/facebook/create-react-app) with Typescript.
 
 ## Getting Started
 
