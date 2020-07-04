@@ -4,14 +4,14 @@ This repository demonstrates the integration of storybook with the [Create React
 
 ## Getting Started
 
-On the project directory, you can run :
+On the storybook-integration, you can run :
 
 ### npm install
 ### npm run storybook
 
 ### AddOns
 
-The resusable components are created using [material-ui](https://material-ui.com/getting-started/installation/)
+The resusable components are created using [Material Design](https://material-ui.com/getting-started/installation/)
 
 
 
